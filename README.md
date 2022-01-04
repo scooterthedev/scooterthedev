@@ -26,7 +26,7 @@ I like to make things that make a difference.
 -   👨🏻‍💻 I’m currently working on something cool;
 -   🚀 I’m currently learning Java and Kotlin;
 -   💬 Ask me about anything, I am happy to help;
--   📫 How to reach me: [talkufy@outlook.com](mailtotalkufy@outlook.com)
+-   📫 How to reach me: [talkufy@outlook.com](mailto:talkufy@outlook.com)
 
  
 
