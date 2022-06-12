@@ -1,4 +1,4 @@
-### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">, I'm [Scooter Y](https://github.com/ScooterTheDev/)  
+### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px" height="45">, I'm [Scooter Y](https://github.com/ScooterTheDev/)  
 
 
 
