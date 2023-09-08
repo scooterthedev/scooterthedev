@@ -2,7 +2,7 @@
 
 
 
-### [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/ScooterTheDev) ![visitors](https://visitor-badge.glitch.me/badge?page_id=Scooter.Scooterthedev)
+### [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/ScooterTheDev) ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fscooterthedev%2Fscooterthedev&countColor=%23263759)
 
 ### Glad to see you here!  
 
