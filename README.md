@@ -51,3 +51,6 @@ I like to make things that make a difference.
 ​If you think that any of my projects were cool please consider donating. All my apps will be free because I feel that everyone should enjoy a great app for **free**, and not just the people that have the money to pay fopr them. Donating will help me keep these apps free of charge and it helps me a ton with the future development of my new app Talkufy and hopefully amazing future projects.
 
 https://github.com/sponsors/scooterthedev
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Slluxx/Slluxx/assets/15162905/38897095-03d1-4c71-ae90-e85c439e0b62');]{x0000}$}
