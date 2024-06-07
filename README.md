@@ -52,7 +52,4 @@ I like to make things that make a difference.
 
 https://github.com/sponsors/scooterthedev
 
-```math
-$$"<img/src=./ onerror=alert(location)>
-e^{i\theta} = i\sin\thetae^{i\theta}
-$$
+$$\<script>{&lt;renderTag&gt;}$$
