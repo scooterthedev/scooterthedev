@@ -6,7 +6,7 @@
 
 ### Glad to see you here!  
 
-I am a full-stack software engineer and writer. I love programming,
+I am a full-stack software engineer and writer. I love programming, reverse enginerring,
 writing, speaking and traveling.
 
 As a software engineer, I enjoy using my obsessive attention to detail,
@@ -24,7 +24,7 @@ I like to make things that make a difference.
 **Talking about Personal Stuffs:**
 
 -   👨🏻‍💻 I’m currently working on something cool;
--   🚀 I’m currently learning Java and Kotlin;
+-   🚀 I’m currently learning Java and C++;
 -   💬 Ask me about anything, I am happy to help;
 -   📫 How to reach me: [talkufy@outlook.com](mailto:talkufy@outlook.com)
 
