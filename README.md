@@ -26,7 +26,7 @@ I like to make things that make a difference.
 -   👨🏻‍💻 I’m currently working on something cool;
 -   🚀 I’m currently learning Java and C++;
 -   💬 Ask me about anything, I am happy to help;
--   📫 How to reach me: [talkufy@outlook.com](mailto:talkufy@outlook.com)
+-   📫 How to reach me: [info@talkufy.com](mailto:info@talkufy.com)
 
  
 
