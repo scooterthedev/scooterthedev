@@ -51,5 +51,3 @@ I like to make things that make a difference.
 ​If you think that any of my projects were cool please consider donating. All my apps will be free because I feel that everyone should enjoy a great app for **free**, and not just the people that have the money to pay fopr them. Donating will help me keep these apps free of charge and it helps me a ton with the future development of my new app Talkufy and hopefully amazing future projects.
 
 https://github.com/sponsors/scooterthedev
-
-$$\<script>{&lt;renderTag&gt;}$$
